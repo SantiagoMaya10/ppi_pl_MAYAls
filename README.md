@@ -32,4 +32,3 @@ We welcome contributions and feedback from the community! If you have suggestion
 
 Thank you for your interest in our programming YouTube channel! Happy coding!
 
-*Note: Remember to replace 'insert_youtube_channel_url' with the actual URL of your YouTube channel.*
