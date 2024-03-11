@@ -23,7 +23,7 @@ We regularly discuss and explore topics inspired by these influential works, off
 Hello everyone!!  My name is Luis Santiago Maya Restrepo, and I am currently a Software Engineer at a Big Tech company. I've worked in the software industry for about 4 years now and im really happy to be sharing all the things that I've learned through all these years. 
 I am also in the last year of my underdegree in Systems and Informatics Engineering in Universidad Nacional de Colombia, at Medellín. 
 
-The areas of biggest interest to me are: software architecture, software design and artificial intelligence. 
+The areas of most interest to me are: software architecture, software design and artificial intelligence. 
 
 Some couriosities about me:
 - My top 3 favourite programming languages are: 1. Java 2. Python and 3. Scala.
