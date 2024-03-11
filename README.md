@@ -20,7 +20,7 @@ We regularly discuss and explore topics inspired by these influential works, off
 
 # About me
 
-Hello everyone!!  My name is Luis Santiago Maya Restrepo, and I am currently a Software Engineer at Mercado Libre. I've worked in the software industry for about 4 years now and im really happy to be sharing all the things that I've learned through all these years. 
+Hello everyone!!  My name is Luis Santiago Maya Restrepo, and I am currently a Software Engineer at a Big Tech company. I've worked in the software industry for about 4 years now and im really happy to be sharing all the things that I've learned through all these years. 
 I am also in the last year of my underdegree in Systems and Informatics Engineering in Universidad Nacional de Colombia, at Medellín. 
 
 The areas of biggest interest to me are: software architecture, software design and artificial intelligence. 
