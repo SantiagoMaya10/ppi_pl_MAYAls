@@ -37,7 +37,7 @@ This is my [LinkedIn](insert_LinkdIn_url) if case you want to take a look
 
 We welcome contributions and feedback from the community! If you have suggestions for topics, code improvements, or exercises, feel free to open an issue or submit a pull request. Together, we can create valuable resources for aspiring and experienced software developers alike.
 
-If you want to contribute economically it'd be highly apreaciated.: This is my [Patreon](insert_Patreon_url) and my [BuyMeACoffe](insert_BuyMeACoffe_url)
+If you want to contribute economically it'd be highly appreciated: This is my [Patreon](insert_Patreon_url) and my [BuyMeACoffe](insert_BuyMeACoffe_url) pages.
 
 Thank you for your interest in our programming YouTube channel! Happy coding!
 
