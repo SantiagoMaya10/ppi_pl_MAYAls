@@ -1,6 +1,6 @@
-# Programming YouTube Channel Repository
+# About my YouTube channel
 
-Welcome to our GitHub repository for our programming YouTube channel! This repository contains the URLs to our channel and the content we discuss, including code snippets and exercises. Our channel is dedicated to teaching software design and development, focusing on design patterns, clean code, and best practices in programming.
+Welcome to our GitHub repository for our CodingIsArt YouTube channel! This repository contains the URLs to our channel and the content we discuss, including code snippets and exercises. Our channel is dedicated to teaching software design and development, focusing on design patterns, clean code, and best practices in programming.
 
 ## YouTube Channel
 
@@ -18,11 +18,18 @@ Our channel is based on the principles and concepts discussed in the following b
 
 We regularly discuss and explore topics inspired by these influential works, offering insights and practical examples to our audience.
 
-## Authors
+# About me
 
-Personal information about the creator:
+Hello everyone!!  My name is Luis Santiago Maya Restrepo, and I am currently a Software Engineer at Mercado Libre. I've worked in the software industry for about 4 years now and im really happy to be sharing all the things that I've learned through all these years. 
+I am also in the last year of my underdegree in Systems and Informatics Engineering in Universidad Nacional de Colombia, at Medellín. 
 
-Hello everyone!!  My name is Santiago Maya, and I am a software engineer at Mercado Libre. I've worked in the software industry for about 4 years now and im really happy to be sharing all the things that I've learned all these years. 
+The areas of biggest interest to me are: software architecture, software design and artificial intelligence. 
+
+Some couriosities about me:
+- My top 3 favourite programming languages are: 1. Java 2. Python and 3. Scala.
+- My favorite OS is MacOs, in genral, unix based operative systems.
+- I don't like to view software as backend or frontend, it's too limiting. I like just to talk about software in general.
+- I love playing chess. I love chess.
 
 
 ## Contribution
