@@ -4,7 +4,7 @@ Welcome to my GitHub repository for our YouTube channel CodingIsArt! This reposi
 
 ## YouTube Channel
 
-You can find our YouTube channel [here](insert_youtube_channel_url). Subscribe to stay updated with our latest videos and tutorials on software design and development.
+You can find my YouTube channel [here](insert_youtube_channel_url). Subscribe to stay updated with our latest videos and tutorials on software design and development.
 
 ## Content
 
