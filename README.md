@@ -10,21 +10,20 @@ You can find our YouTube channel [here](insert_youtube_channel_url). Subscribe t
 
 Our channel is based on the principles and concepts discussed in the following books:
 
-1. **Clean Code** by Robert C. Martin
-2. **Clean Architecture** by Robert C. Martin
-3. **Domain-Driven Design: Tackling Complexity in the Heart of Software** by Eric Evans
-4. **Head First Design Patterns** by Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra
-5. **Design Patterns: Elements of Reusable Object-Oriented Software** by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
-
-We regularly discuss and explore topics inspired by these influential works, offering insights and practical examples to our audience.
-
-## Authors
-
 - **Clean Code**: Robert C. Martin
 - **Clean Architecture**: Robert C. Martin
 - **Domain-Driven Design**: Eric Evans
 - **Head First Design Patterns**: Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra
 - **Design Patterns**: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+
+We regularly discuss and explore topics inspired by these influential works, offering insights and practical examples to our audience.
+
+## Authors
+
+Personal information about the creator:
+
+Hello everyone!!  My name is Santiago Maya, and I am a software engineer at Mercado Libre. I've worked in the software industry for about 4 years now and im really happy to be sharing all the things that I've learned all these years. 
+
 
 ## Contribution
 
