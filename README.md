@@ -1,4 +1,4 @@
-# About my YouTube channel CodingIsArt
+# CodingIsArt
 
 Welcome to my GitHub repository for our YouTube channel CodingIsArt! This repository contains the URLs to our channel and the content we discuss, including code snippets and exercises. Our channel is dedicated to teaching software design and development, focusing on design patterns, clean code, and best practices in programming.
 
