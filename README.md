@@ -31,7 +31,7 @@ Some couriosities about me:
 - I don't like to view software as backend or frontend, it's too limiting. I like just to talk about software in general.
 - I love playing chess. I love chess.
 
-This is my [LinkedIn](insert_LinkdIn_url) in case you want to take a look
+This is my [LinkedIn](https://www.linkedin.com/in/luis-santiago-maya-restrepo-753889183/) in case you want to take a look
 
 ## Contribution
 
