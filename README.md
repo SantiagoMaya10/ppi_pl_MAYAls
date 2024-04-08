@@ -18,6 +18,8 @@ Our channel is based on (but not limited to) the principles and concepts discuss
 
 We regularly discuss and explore topics inspired by these influential works, offering insights and practical examples to our audience.
 
+You can find the videos description and urls in the ['Videos' folder](./Videos)
+
 # About me
 
 Hello everyone!!  My name is Luis Santiago Maya Restrepo, and I am currently a Software Engineer at a Big Tech company. I've worked in the software industry for about 4 years now and im really happy to be sharing all the things that I've learned through all these years. 
