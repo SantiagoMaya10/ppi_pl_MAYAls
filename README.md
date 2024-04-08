@@ -18,7 +18,7 @@ Our channel is based on (but not limited to) the principles and concepts discuss
 
 We regularly discuss and explore topics inspired by these influential works, offering insights and practical examples to our audience.
 
-You can find the videos description and urls in the ['Videos' folder](./Videos)
+You can find the videos description and urls in the [/Videos folder](./Videos) in this repo.
 
 # About me
 
