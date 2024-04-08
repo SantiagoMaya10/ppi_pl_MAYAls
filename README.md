@@ -8,7 +8,7 @@ You can find my YouTube channel [here](https://www.youtube.com/@CodingIsArt-cw6c
 
 ## Content
 
-Our channel is based on the principles and concepts discussed in the following books:
+Our channel is based on (but not closed to) the principles and concepts discussed in the following books:
 
 - **Clean Code**: Robert C. Martin
 - **Clean Architecture**: Robert C. Martin
