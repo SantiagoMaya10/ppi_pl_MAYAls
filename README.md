@@ -1,4 +1,4 @@
-# About my YouTube channel CodingIsArt
+# CodingIsArt
 
 Welcome to my GitHub repository for our YouTube channel CodingIsArt! This repository contains the URLs to our channel and the content we discuss, including code snippets and exercises. Our channel is dedicated to teaching software design and development, focusing on design patterns, clean code, and best practices in programming.
 
@@ -17,6 +17,8 @@ Our channel is based on (but not limited to) the principles and concepts discuss
 - **Design Patterns**: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 
 We regularly discuss and explore topics inspired by these influential works, offering insights and practical examples to our audience.
+
+You can find the videos description and urls in the [/Videos folder](./Videos) in this repo.
 
 # About me
 
