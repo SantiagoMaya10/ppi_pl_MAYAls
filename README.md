@@ -20,7 +20,8 @@ We regularly discuss and explore topics inspired by these influential works, off
 
 You can find the videos description and urls in the [/Videos folder](./Videos) in this repo.
 
-You can also find the code of the coding sessions in the [/CodingSessions](./CodingSessions) folder in this repo. The entry point class is the App.java class
+You can also find the code of the coding sessions in the [/CodingSessions](./CodingSessions) folder in this repo. 
+The entry point class is the App.java class, you fin it in this route: CodingSessions/Strategy Pattern/miniducksimulatorapp/src/main/java/org/example
 which holds the main method. Remember, the main mthod is the entry point of every java application.
 
 # About me
