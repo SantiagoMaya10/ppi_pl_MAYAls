@@ -20,6 +20,9 @@ We regularly discuss and explore topics inspired by these influential works, off
 
 You can find the videos description and urls in the [/Videos folder](./Videos) in this repo.
 
+You can also find the code of the coding sessions in the [/CodingSessions](./CodingSessions) folder in this repo. The entry point class is the App.java class
+which holds the main method. Remember, the main mthod is the entry point of every java application.
+
 # About me
 
 Hello everyone!!  My name is Luis Santiago Maya Restrepo, and I am currently a Software Engineer at a Big Tech company. I've worked in the software industry for about 4 years now and im really happy to be sharing all the things that I've learned through all these years. 
